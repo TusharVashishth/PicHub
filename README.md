@@ -1,6 +1,6 @@
 # pic_hub
 
-A new Flutter project.
+This is a Fresh new flutter wallpaper app. In which you can download and set Wallpaper on your phone.
 
 ## Getting Started
 
